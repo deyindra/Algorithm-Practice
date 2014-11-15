@@ -34,7 +34,7 @@ public class PowerAndSquareRoot {
     }
 
     public static void main(String[] args){
-        System.out.println(nthRoot(2,2,0.000000001));
+        System.out.println(nthRoot(2,3,0.000000001));
     }
 
 }
