@@ -7,3 +7,5 @@ Algorithm-Practice
 ### DP
 ### Case Study
 ### Multi threading and Concurrency
+### Math
+### Bit Operation
