@@ -1,4 +1,4 @@
-package org.idey.alog.devidenconcur;
+package org.idey.algo.devidenconcur;
 
 public class FindCountByBinSearch {
 

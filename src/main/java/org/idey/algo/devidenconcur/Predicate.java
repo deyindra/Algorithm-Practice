@@ -1,4 +1,4 @@
-package org.idey.alog.devidenconcur;
+package org.idey.algo.devidenconcur;
 
 /**
  * Created by indranildey on 11/8/14.
