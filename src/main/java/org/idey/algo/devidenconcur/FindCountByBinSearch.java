@@ -26,7 +26,7 @@ public class FindCountByBinSearch {
         return count;
     }
     public static void main(String[] args){
-        System.out.println(findCount(new Integer[]{2,103,109,107,105,111,121,123}, new Predicate<Integer>() {
+        System.out.println(findCount(new Integer[]{2,4,109,107,105,111,121,123}, new Predicate<Integer>() {
             @Override
             public boolean process(Integer obj) {
                 return (obj % 2)==0;
