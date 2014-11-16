@@ -61,7 +61,7 @@ public class FindCountByBinSearch {
             }
         }));
 
-        System.out.println(findCountLast(new Integer[]{3,5,109,107,105,111,122,124}, new Predicate<Integer>() {
+        System.out.println(findCountLast(new Integer[]{1,2,4,6,122,124}, new Predicate<Integer>() {
             @Override
             public boolean process(Integer obj) {
                 return (obj % 2)==0;
